@@ -1,0 +1,9 @@
+{
+    "id": "note-blocks",
+    "name": "Note Blocks Plugin",
+    "version": "1.0.1",
+    "minAppVersion": "0.15.0",
+    "description": "Преобразует блоки {note}, {warning}, {tip}, {admonition} в стилизованные контейнеры",
+    "author": "nedoletoff",
+    "isDesktopOnly": false
+}
